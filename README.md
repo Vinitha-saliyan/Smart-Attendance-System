@@ -36,3 +36,4 @@
 <img src='https://github.com/Patelrahul4884/Attendance-Management-system-using-face-recognition/blob/master/Project%20Snap/7.PNG'>
 
 ## Just follow me and Star⭐ my repository
+
